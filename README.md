@@ -67,3 +67,27 @@ http://localhost/meddemy
 ---
 
 ## 📁 Project Structure
+meddemy/
+├── admin/          # Admin panel (dashboard, manage content)
+├── assets/         # CSS, JS, images
+├── includes/       # DB config, header, footer, auth
+├── courses/        # Course player pages
+├── quiz/           # Quiz engine
+├── books/          # Books store
+├── materials/      # Study material section
+├── meddemy.sql     # Database schema
+└── index.php       # Landing page
+
+---
+
+## 👨‍💻 Developer
+
+**Tanveer Ali**  
+BS Artificial Intelligence — University of Lahore (CSDL)  
+[![GitHub](https://img.shields.io/badge/GitHub-tanveer--ali-181717?style=flat&logo=github)](https://github.com/tanveer-ali)
+
+---
+
+## 📄 License
+
+This project is proprietary. All rights reserved © 2025 Tanveer Ali.
